@@ -1,0 +1,41 @@
+/*=== ok ===*/
+
+html {
+box-sizing: border-box;
+}
+*, *:before, *:after {
+box-sizing: inherit;
+}
+
+body{
+	background: #000;
+}
+h1{
+	color: #fff;
+	background-color: green;
+	font-family: roboto;
+	font-size: 3em;
+	border: black 3px solid;
+	width: 40%;
+	padding: 1em;
+	box-sizing: border-box;
+	margin: auto;
+}
+
+ul{
+	list-style-type: none;
+}
+
+li a{
+	text-decoration: none;
+	color: green;
+	background-color: lightblue;
+	font-size: 1em;
+	font-family: roboto;
+	border: black 1px solid;
+	margin: auto;
+	padding: 5px;
+	border-radius: 2em;
+	display: block;
+	width: 10%;
+}
