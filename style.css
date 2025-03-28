@@ -8,11 +8,11 @@ box-sizing: inherit;
 }
 
 body{
-	background: #000;
+	background: darkgoldenrod;
 }
 h1{
-	color: #fff;
-	background-color: green;
+	color: #151515;
+	background-color: white;
 	font-family: roboto;
 	font-size: 3em;
 	border: black 3px solid;
